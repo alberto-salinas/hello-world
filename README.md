@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-Initial commi
+Initial commit
